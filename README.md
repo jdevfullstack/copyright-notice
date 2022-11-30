@@ -9,7 +9,7 @@ even the the copyright notice below is my copyright
 
 ## Copyright Notice
 
-All Rights Reserved by [@jdevstatic](https://github.com/jdevstatic)
+[ [@jdevstatic](https://github.com/jdevstatic) ] All Rights Reserved 
 
 powered by GitHub Gist, *the Gist that you can Git*
 
